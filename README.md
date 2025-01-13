@@ -23,7 +23,7 @@ We will attempt every effort to not allow for "in major version changes" to be b
 Always and extremely welcome! Very simple. Fork the repo, create your additions/updates, send for review, get reviews, update/revise as neccesary, commit and merge, and it will be deployed for general/global use.
 
 ## Conflicts
-If you believe there are conflicts in this strategy, "Good"! We all want to hear any and every one. The best way is to file a ticket to the issue. It will live "ad infinitum" in Github, for present and future reference. For comparison, see Bitcoin's BIP system, so clean, so traceable, so accountable. We strive for the same. If you have an alternative, please, propose it. Keep in mind a 10+ year time frame. So, don't suggest a link to an ephemeral social media link that also requires a "walled garden" login. We adhere to OG internet principles of openess, the way the internet was originally meant to be built!
+If you believe there are conflicts in this strategy, "[Good](https://www.youtube.com/watch?v=IdTMDpizis8)"! We all want to hear any and every one. The best way is to file a ticket to the issue. It will live "ad infinitum" in Github, for present and future reference. For comparison, see Bitcoin's BIP system, so clean, so traceable, so accountable. We strive for the same. If you have an alternative, please, propose it. Keep in mind a 10+ year time frame. So, don't suggest a link to an ephemeral social media link that also requires a "walled garden" login. We adhere to OG internet principles of openess, the way the internet was originally meant to be built!
 
 ## Complaints
 See above
